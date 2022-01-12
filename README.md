@@ -11,4 +11,4 @@
 
 # Magnetic Ink Character Recognition
 
-I have no experience with MICR fonts so there may be some inaccuracies.
+This FIGlet font is not based on any specific MICR font so there may be some differences from actual production fonts.
